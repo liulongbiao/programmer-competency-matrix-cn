@@ -1,3 +1,8 @@
-# My Awesome Book
+# 程序员能力矩阵
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+原文地址： [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/)
+
+> 注每个层级的知识是累加的；在 N 层意味着同时也知道小于 N 层的知识。
+
+
+
